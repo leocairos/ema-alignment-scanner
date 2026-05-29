@@ -47,3 +47,5 @@ Controle o bot diretamente pelo chat:
 ## 💡 Dica de Uso
 
 No relatório HTML, copie o **Alert Time**. Ao abrir o link do TradingView, pressione `Alt + G` e cole o horário para pular exatamente para o candle que acionou o alerta do bot.
+
+.
