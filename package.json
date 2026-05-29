@@ -1,0 +1,17 @@
+{
+  "name": "ema-alignment-scanner",
+  "version": "1.0.0",
+  "description": "Crypto Alignment Scanner",
+  "main": "scanner.js",
+  "scripts": {
+    "dev": "node --watch scanner.js",
+    "start": "node scanner.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "technicalindicators": "^3.1.0"
+  }
+}
